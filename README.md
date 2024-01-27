@@ -8,14 +8,14 @@ Primeros pasos
   * docker-compose (Go, Keycloak, Database)
     https://blog.logrocket.com/dockerizing-go-application/
 
-## Instalar diferentes versiones de Go con gestor de versione goenv
+## Instalar diferentes versiones de Go con gestor de versiones goenv
   * goenv tutorial de instalación https://medium.com/@tinchoram/c%C3%B3mo-administrar-diferentes-versiones-de-golang-con-goenv-ca4f2cbb84c5
   * Repositorio oficial de goenv https://github.com/go-nv/goenv
 
 ## Estructura del proyecto, enlaces para ver como definir el layout de carpetas
   * Ultimate folder structure => https://gist.github.com/ayoubzulfiqar/9f1a34049332711fddd4d4b2bfd46096
   * Standard project layout => https://github.com/golang-standards/project-layout/blob/master/README_es.md
-  * Go official page layour folders => https://go.dev/doc/modules/layout
+  * Go official page layout folders => https://go.dev/doc/modules/layout
 
 ## Creación de CRUD básico
   * Mock en memoria
